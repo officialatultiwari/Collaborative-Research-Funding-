@@ -10,6 +10,8 @@ With the power of blockchain, funders can trust that their contributions will on
 
 ## Contract Address
 0xcdf0a1119fb5229e2c4168b8bde0da5d8920a774
+![image](https://github.com/user-attachments/assets/b7de13ea-5976-4169-bac2-650eed23ce9f)
+
 ## Project Vision
 The vision of **Collaborative Research Funding** is to create a transparent, decentralized funding ecosystem for research projects. By utilizing blockchain technology, we aim to create a trustless environment where funding decisions are based on clear, verifiable criteria, such as project milestones and fund utilization. Our goal is to remove intermediaries and empower both researchers and funders with the ability to track and manage funds effectively.
 
